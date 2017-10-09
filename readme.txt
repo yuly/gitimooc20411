@@ -6,3 +6,4 @@ row 6
 row 7
 row 9
 row 8
+--no-ff test
